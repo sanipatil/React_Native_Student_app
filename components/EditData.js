@@ -5,7 +5,7 @@ import realm from './RealmData';
 export default class EditData extends Component {
     static navigationOptions =
     {
-        title: 'ShowData',
+        title: 'EditData',
     };
     constructor(props) {
         super(props);
